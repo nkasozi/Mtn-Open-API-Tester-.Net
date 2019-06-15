@@ -1,0 +1,11 @@
+C:\Users\HP POWER i7\source\repos\MomoApiTester\MomoApiTester\bin\Debug\netcoreapp2.2\MomoApiTester.deps.json
+C:\Users\HP POWER i7\source\repos\MomoApiTester\MomoApiTester\bin\Debug\netcoreapp2.2\MomoApiTester.runtimeconfig.json
+C:\Users\HP POWER i7\source\repos\MomoApiTester\MomoApiTester\bin\Debug\netcoreapp2.2\MomoApiTester.runtimeconfig.dev.json
+C:\Users\HP POWER i7\source\repos\MomoApiTester\MomoApiTester\bin\Debug\netcoreapp2.2\MomoApiTester.dll
+C:\Users\HP POWER i7\source\repos\MomoApiTester\MomoApiTester\bin\Debug\netcoreapp2.2\MomoApiTester.pdb
+C:\Users\HP POWER i7\source\repos\MomoApiTester\MomoApiTester\obj\Debug\netcoreapp2.2\MomoApiTester.csprojAssemblyReference.cache
+C:\Users\HP POWER i7\source\repos\MomoApiTester\MomoApiTester\obj\Debug\netcoreapp2.2\MomoApiTester.csproj.CoreCompileInputs.cache
+C:\Users\HP POWER i7\source\repos\MomoApiTester\MomoApiTester\obj\Debug\netcoreapp2.2\MomoApiTester.AssemblyInfoInputs.cache
+C:\Users\HP POWER i7\source\repos\MomoApiTester\MomoApiTester\obj\Debug\netcoreapp2.2\MomoApiTester.AssemblyInfo.cs
+C:\Users\HP POWER i7\source\repos\MomoApiTester\MomoApiTester\obj\Debug\netcoreapp2.2\MomoApiTester.dll
+C:\Users\HP POWER i7\source\repos\MomoApiTester\MomoApiTester\obj\Debug\netcoreapp2.2\MomoApiTester.pdb
