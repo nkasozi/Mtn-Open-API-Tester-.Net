@@ -8,13 +8,10 @@ You will be given 2 keys, a primary key and a secondary one. Take note of the pr
 
 3. Go to https://uuidgenerator.net and copy the uuid there (make sure its version 4).
 
-4. Using postman or any other rest API testing tool, fire a create API user key using the UUID obtained in 3.
-Api is here doc https://momodeveloper.mtn.com/docs/services/sandbox-provisioning-api/operations/post-v1_0-apiuser. The result of this API is an empty response with an
-HTTP Status code of 200 ok.
+4. Using postman or any other rest API testing tool, fire a create API user key using the UUID obtained in 3 wherever you see X-Reference-Id. Api documentation is here. https://momodeveloper.mtn.com/docs/services/sandbox-provisioning-api/operations/post-v1_0-apiuser. The result of this API is an empty response with an HTTP Status code of 200 ok.
 
 5. Next you need to create an API key using the endpoint over here. https://momodeveloper.mtn.com/docs/services/sandbox-provisioning-api/operations/post-v1_0-apiuser-apikey
-It also needs the UUID created in step 3. in the response of this request, you will get the API Key. Take note of it. 
+It also needs the UUID created in step 3 wherever you see X-Reference-Id. in the response of this request, you will get the API Key. Take note of it. 
 
 
-By now you should have the Subscription-Key(Step 2), Api User(UUID in Step 3), Api Key (Step 4) and can now use the code in this tester. This code was developed using
-Visual Studio Community 2019 and .net core 2.1
+By now you should have the Subscription-Key(Step 2), Api User (UUID in Step 3), Api Key (Step 4) and can now use the code in this tester. This code was developed using Visual Studio Community 2019 and .net core 2.1
