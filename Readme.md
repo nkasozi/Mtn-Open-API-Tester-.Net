@@ -16,4 +16,5 @@ HTTP Status code of 200 ok.
 It also needs the UUID created in step 3. in the response of this request, you will get the API Key. Take note of it. 
 
 
-By now you should have the Subscription-Key(Step 2), Api User(UUID in Step 3), Api Key (Step 4) and can now use the code in this tester.
+By now you should have the Subscription-Key(Step 2), Api User(UUID in Step 3), Api Key (Step 4) and can now use the code in this tester. This code was developed using
+Visual Studio Community 2019 and .net core 2.1
